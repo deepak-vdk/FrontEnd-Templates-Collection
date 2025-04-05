@@ -12,9 +12,10 @@ Each folder in this repo is a standalone project with:
 
 ## 📁 Templates Available
 
-| Template Name            | Tech Stack                  |
-|--------------------------|-----------------------------|
-| Login Form (Bootstrap)   | HTML, CSS, Bootstrap        |
+| Template Name            | Tech Stack                         |
+|--------------------------|----------------------------------- |
+| Login Form               | HTML, CSS, Bootstrap               |
+| Responsive Sidebar       | HTML, CSS, Bootstrap, Javascript   |
 
 > Screenshots are inside each template folder.
 
